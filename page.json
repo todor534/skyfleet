@@ -1,0 +1,137 @@
+{
+  "brand": {
+    "name": "SkyFleet",
+    "accent": "#1a73e8"
+  },
+  "layout": "Simple",
+  "sections": [
+    {
+      "type": "Hero",
+      "variant": "centered",
+      "headline": "Discover the Future of Air Travel",
+      "subheadline": "Explore, book, and manage flights with ease. Experience comfort and innovation in the skies.",
+      "primaryCta": {
+        "label": "Book a Flight",
+        "href": "/book"
+      },
+      "image": {
+        "kind": "url",
+        "name": "Modern Airplane",
+        "url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb"
+      }
+    },
+    {
+      "type": "Features",
+      "items": [
+        {
+          "title": "Advanced Avionics",
+          "desc": "Experience state-of-the-art navigation and communication systems for safer, more efficient flights."
+        },
+        {
+          "title": "Fuel Efficiency",
+          "desc": "Our airplanes are engineered for optimal fuel consumption, reducing costs and environmental impact."
+        },
+        {
+          "title": "Spacious Cabins",
+          "desc": "Enjoy comfort with roomy interiors designed for both passengers and crew."
+        },
+        {
+          "title": "Customizable Options",
+          "desc": "Tailor your aircraft with a range of configurations and luxury finishes to suit your needs."
+        }
+      ]
+    },
+    {
+      "type": "Pricing",
+      "plans": [
+        {
+          "name": "Basic Flight",
+          "price": "$199",
+          "period": "per hour",
+          "features": [
+            "Single engine aircraft",
+            "Certified pilot",
+            "Pre-flight briefing",
+            "Up to 2 passengers"
+          ]
+        },
+        {
+          "name": "Premium Flight",
+          "price": "$399",
+          "period": "per hour",
+          "features": [
+            "Twin engine aircraft",
+            "Experienced pilot",
+            "In-flight refreshments",
+            "Up to 4 passengers"
+          ]
+        },
+        {
+          "name": "Luxury Charter",
+          "price": "$899",
+          "period": "per hour",
+          "features": [
+            "Private jet",
+            "VIP lounge access",
+            "Personal concierge",
+            "Up to 8 passengers"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Testimonials",
+      "items": [
+        {
+          "name": "Sarah L.",
+          "quote": "Booking my flight was seamless and quick. Highly recommend for hassle-free travel!"
+        },
+        {
+          "name": "James P.",
+          "quote": "The customer service was outstanding and made my journey stress-free."
+        },
+        {
+          "name": "Emily R.",
+          "quote": "I found the best deals on flights here. Will definitely use this site again!"
+        }
+      ]
+    },
+    {
+      "type": "FAQ",
+      "items": [
+        {
+          "q": "What types of airplanes do you offer?",
+          "a": "We offer a wide range of airplanes, including private jets, commercial aircraft, and cargo planes to suit various needs."
+        },
+        {
+          "q": "Can I schedule a test flight?",
+          "a": "Yes, you can schedule a test flight by contacting our sales team or filling out the request form on our website."
+        },
+        {
+          "q": "Do you provide maintenance services?",
+          "a": "Absolutely! We offer comprehensive maintenance and support services for all aircraft purchased through us."
+        },
+        {
+          "q": "How do I finance an airplane purchase?",
+          "a": "We partner with leading financial institutions to offer flexible financing options. Contact us for a personalized quote."
+        },
+        {
+          "q": "Are training programs available for new pilots?",
+          "a": "Yes, we provide certified training programs for both new and experienced pilots."
+        }
+      ]
+    },
+    {
+      "type": "CTA",
+      "headline": "Ready to take your aviation experience to new heights?",
+      "cta": {
+        "label": "Book Your Flight Now",
+        "href": "/book"
+      }
+    },
+    {
+      "type": "Footer",
+      "note": "© 2024 SkyFleet Aviation. All rights reserved."
+    }
+  ]
+}
